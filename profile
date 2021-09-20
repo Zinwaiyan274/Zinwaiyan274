@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zinwaiyan274
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...everything I intreested in
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Waii
+- 👀 I’m interested in everying that will change fucture
+- 🌱 I’m currently learning everything I intreested in
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
