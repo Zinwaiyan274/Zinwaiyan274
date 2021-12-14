@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Waii
-- 👀 I’m interested in everying that will change fucture
-- 🌱 I’m currently learning everything I intreested in
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Waii who interested in everying that will change fucture.
 
-<!---
-Zinwaiyan274/Zinwaiyan274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m currently learning everything I intreested in
+
+- I’m welcome to collaborate with me.
+
+
+-📫 How to reach me ...:: zinwaiyan274@gmail.com and on twitter :https://twitter.com/ZinWaiyan274
+
+
