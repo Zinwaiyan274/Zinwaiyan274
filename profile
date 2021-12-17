@@ -5,6 +5,6 @@
 - I’m welcome to collaborate with me.
 
 
--📫 How to reach me ...:: zinwaiyan274@gmail.com and on twitter :https://twitter.com/ZinWaiyan274
+-📫 How to reach me ...:: zinwaiyan274@gmail.com 
 
 
