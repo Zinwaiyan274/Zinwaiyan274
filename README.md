@@ -1,4 +1,4 @@
-### Hi there 👋
+### Strongly believe in consistency
 
 
 
